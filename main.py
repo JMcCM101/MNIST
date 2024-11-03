@@ -1,4 +1,5 @@
 # Modules
+from operator import truediv
 
 import pygame
 import random
